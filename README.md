@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-[![Dohun's GitHub stats](https://github-readme-stats.vercel.app/api?username=eraser502)](https://github.com/eraser502/github-readme-stats)
+### 📊 GitHub Stats
+[![Dohun’s GitHub stats](https://github-readme-stats.vercel.app/api?username=eraser502&show_icons=true&theme=radical)](https://github.com/eraser502/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eraser502)](https://github.com/eraser502/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eraser502&layout=compact&theme=tokyonight)](https://github.com/eraser502/github-readme-stats)
 <!--
 **eraser502/eraser502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
